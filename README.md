@@ -5,7 +5,8 @@ Bitcoin Brute Forcer<br/>
 #
 
 ```
-Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa
+Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa; 
+if you can Donate also here : 1TakawJC9DKG3cdFT7LazDrfvXvYpSKV7
 ```
 
 #
@@ -19,7 +20,7 @@ Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa
 Installation: 
 
 ```
-$ git clone https://github.com/Isaacdelly/Plutus
+$ git clone https://github.com/gibethub/Plutus/
 
 $ cd Plutus
 
@@ -124,7 +125,7 @@ This program is able to handle, generate, and query a private key in 0.5 seconds
 #
 
 ```
-Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa
+Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa ; if you can Donate also here : 1TakawJC9DKG3cdFT7LazDrfvXvYpSKV7
 ```
 
 #

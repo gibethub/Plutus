@@ -1,7 +1,7 @@
 # Plutus Bitcoin Brute Forcer
 # Made by Isaac Delly
 # https://github.com/Isaacdelly/Plutus
-# Donate: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa
+# Donate: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa; if you can Donate also here : 1TakawJC9DKG3cdFT7LazDrfvXvYpSKV7
 
 import requests
 import os
@@ -103,7 +103,7 @@ def Plutus(): # Main Plutus Function
                        "WIF private key: " + str(toWIF(str(data[0]))) + "\n" +
                        "public key: " + str(data[1]).upper() + "\n" +
                        "balance: " + str(data[3]) + "\n" +
-                       "Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa\n\n")
+                       "Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa;1TakawJC9DKG3cdFT7LazDrfvXvYpSKV7\n\n")
             file.close()
 
 ### Multiprocessing Extension Made By Wayne Yao https://github.com/wx-Yao ###
@@ -149,7 +149,7 @@ def process_balance(dataset,balance):
                    "WIF private key: " + str(WIF) + "\n" +
                    "public key: " + str(publickey).upper() + "\n" +
                    "balance: " + str(balance) + "\n" +
-                   "Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa\n\n")
+                   "Donate to the author of this program: 1B1k2fMs6kEmpxdYor6qvd2MRVUX2zGEHa;1TakawJC9DKG3cdFT7LazDrfvXvYpSKV7\n\n")
         file.close()
     return None
 
